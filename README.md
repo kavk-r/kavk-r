@@ -5,8 +5,9 @@
 ## Hey there, I'm Kavin! 👋
 #### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
 
-- 📫 Reach out to me at **[kavink1216@gmail.com](mailto:kavink1216@gmail.com)**
-- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/rkavinkumar)
+- 📫 Reach out to me: [kavink1216@gmail.com](mailto:kavink1216@gmail.com)
+- 🌐 Connect with me: [LinkedIn](www.linkedin.com/in/rkavinkumar)
+- 📄 Get to know about my experience: [Resume](https://drive.google.com/file/d/14g1tUU6aNPZ1oTFjKz2P8k7iODoVvdVR/view?usp=sharing)
 
 <!--
 - c🔭 I’m currently working on ...
