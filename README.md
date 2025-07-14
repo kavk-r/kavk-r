@@ -1,5 +1,5 @@
 <div align="center">
-  ![Banner](assets/banner.jpeg)
+  ![Banner](assets/banner.jpg)
 </div>
 
 ## Hi 👋, I'm Kavin!
