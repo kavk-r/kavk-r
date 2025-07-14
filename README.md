@@ -13,7 +13,7 @@
 ---
 
 - ⚒ I’m currently working on **Drone Automation Technology**
-- 📖 I’m currently learning **Deep Learning**and **DSA**
+- 📖 I’m currently learning **Deep Learning** and **DSA**
 
 ---
 
