@@ -12,9 +12,20 @@
 
 ---
 
-- ⚒ I’m currently working on <span style="color:red">**Drone Automation Technology**</span>
-- 📖 I’m currently learning <span style="color:blue">**Deep Learning**</span> and <span style="color:yellow">**DSA**</span>
+- ⚒ I’m currently working on **Drone Automation Technology**
+- 📖 I’m currently learning **Deep Learning**and **DSA**
 
+---
+
+<h3>Languages and Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
