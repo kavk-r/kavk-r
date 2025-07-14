@@ -3,7 +3,7 @@
 </p>
 
 ## Hey there 👋, I'm Kavin!
-### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
+#### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
 
 - 📫 Reach out to me at **[kavink1216@gmail.com](mailto:kavink1216@gmail.com)**
 
