@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kavin Kumar Banner" width="100%">
+  <img src="assets/banner.jpg" alt="Kavin Kumar Banner" width="100%">
 </p>
 
 ## Hi 👋, I'm Kavin!
