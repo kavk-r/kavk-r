@@ -6,8 +6,7 @@
 #### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
 
 - 📫 Reach out to me at **[kavink1216@gmail.com](mailto:kavink1216@gmail.com)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;"/> Connect with me on [LinkedIn](www.linkedin.com/in/rkavinkumar
-)
+- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/rkavinkumar)
 
 <!--
 - c🔭 I’m currently working on ...
