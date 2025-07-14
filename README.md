@@ -1,6 +1,6 @@
-<div align="center">
-  ![Banner](assets/banner.jpg)
-</div>
+<p align="center">
+  <img src="assets/banner.png" alt="Kavin Kumar Banner" width="100%">
+</p>
 
 ## Hi 👋, I'm Kavin!
 ### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
