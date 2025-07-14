@@ -1,10 +1,11 @@
-## Hi there 👋
+<div align="center">
+  ![Banner](assets/banner.jpeg)
+</div>
+
+## Hi 👋, I'm Kavin!
+### Enthusiastic engineering student passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society
 
 <!--
-**kavk-r/kavk-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
