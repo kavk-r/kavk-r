@@ -3,6 +3,7 @@
 </p>
 
 ## Hey there, I'm Kavin! 👋
+<!--
 #### An Enthusiastic engineering student currently pursuing my Btech at Amrita Vishwa Vidyapeetham.
 #### Passionate about interdisciplinary research, product development, and human-centered design; specializing in AI & ML to solve real-world problems and advance products that benefit society.
 
